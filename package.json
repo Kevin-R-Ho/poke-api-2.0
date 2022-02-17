@@ -2,7 +2,7 @@
   "name": "solo-pokeapi-2.0",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kevin-r-ho.github.io",
+  "homepage": "https://kevin-r-ho.github.io/poke-api-2.0/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
